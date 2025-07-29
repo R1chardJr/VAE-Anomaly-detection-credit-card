@@ -47,8 +47,8 @@ O modelo demonstrou ser eficaz na distinção entre transações normais e fraud
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone https://github.com/R1chardJr/VAE-Anomaly-detection-credit-card.git
+    cd VAE-Anomaly-detection-credit-card
     ```
     
 2.  **Execute o Notebook:**
